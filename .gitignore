@@ -1,1 +1,11 @@
 Datasets
+
+# Global Superstore Sales
+Global_Superstore_Sales/icons_global_superstore
+Global_Superstore_Sales/themes_global_superstore
+
+# pokedex
+pokedex/venv
+pokedex/themes_pokedex
+pokedex/requirements.txt
+pokedex/pokedex_imageDB.py
